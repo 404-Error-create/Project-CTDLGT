@@ -1,0 +1,10 @@
+F:\EPU\.Net\Origin\Appp\Appp\bin\Debug\Appp.exe.config
+F:\EPU\.Net\Origin\Appp\Appp\bin\Debug\Appp.exe
+F:\EPU\.Net\Origin\Appp\Appp\bin\Debug\Appp.pdb
+F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.csprojAssemblyReference.cache
+F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.Frm_SignIn.resources
+F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.Properties.Resources.resources
+F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.csproj.GenerateResource.cache
+F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.csproj.CoreCompileInputs.cache
+F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.exe
+F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.pdb
