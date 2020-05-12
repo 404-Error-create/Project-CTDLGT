@@ -49,10 +49,10 @@
             // 
             this.ptb_BackGround.BackColor = System.Drawing.Color.Transparent;
             this.ptb_BackGround.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ptb_BackGround.Image = global::Appp.Properties.Resources._1;
+            this.ptb_BackGround.Image = global::Appp.Properties.Resources._2;
             this.ptb_BackGround.Location = new System.Drawing.Point(0, 0);
             this.ptb_BackGround.Name = "ptb_BackGround";
-            this.ptb_BackGround.Size = new System.Drawing.Size(417, 683);
+            this.ptb_BackGround.Size = new System.Drawing.Size(435, 683);
             this.ptb_BackGround.TabIndex = 0;
             this.ptb_BackGround.TabStop = false;
             // 
@@ -60,7 +60,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(417, 683);
+            this.ClientSize = new System.Drawing.Size(435, 683);
             this.Controls.Add(this.ptb_Back);
             this.Controls.Add(this.ptb_BackGround);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
