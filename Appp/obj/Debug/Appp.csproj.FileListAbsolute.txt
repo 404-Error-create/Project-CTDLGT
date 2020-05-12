@@ -32,3 +32,4 @@ D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.csproj.CoreCompileInputs.cache
 D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.exe
 D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.pdb
 F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.frm_main.resources
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.Frm_btn1.resources
