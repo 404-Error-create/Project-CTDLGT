@@ -246,6 +246,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "frm_main";
             this.Text = "Trang chủ";
+            this.Load += new System.EventHandler(this.frm_main_Load);
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();

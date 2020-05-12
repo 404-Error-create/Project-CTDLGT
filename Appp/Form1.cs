@@ -42,5 +42,13 @@ namespace Appp
             frm_SignIn.ShowDialog();
             this.Show();
         }
+
+        private void ptb_SignIn_Click(object sender, EventArgs e)
+        {
+            frm_main frm_SignIn = new frm_main();
+            this.Hide();
+            frm_SignIn.ShowDialog();
+            this.Show();
+        }
     }
 }
