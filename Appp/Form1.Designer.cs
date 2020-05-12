@@ -130,6 +130,7 @@
             this.ptb_SignIn.Size = new System.Drawing.Size(136, 44);
             this.ptb_SignIn.TabIndex = 6;
             this.ptb_SignIn.TabStop = false;
+            this.ptb_SignIn.Click += new System.EventHandler(this.ptb_SignIn_Click);
             // 
             // ptb_Back
             // 

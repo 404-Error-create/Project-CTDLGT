@@ -19,3 +19,15 @@ F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\
 F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.exe
 F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.pdb
 F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.Frm_SignUp.resources
+D:\GIT\Project-CTDLGT\Appp\bin\Debug\Appp.exe.config
+D:\GIT\Project-CTDLGT\Appp\bin\Debug\Appp.exe
+D:\GIT\Project-CTDLGT\Appp\bin\Debug\Appp.pdb
+D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.csprojAssemblyReference.cache
+D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.Frm_SignIn.resources
+D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.frm_main.resources
+D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.Properties.Resources.resources
+D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.Frm_SignUp.resources
+D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.csproj.GenerateResource.cache
+D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.csproj.CoreCompileInputs.cache
+D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.exe
+D:\GIT\Project-CTDLGT\Appp\obj\Debug\Appp.pdb
