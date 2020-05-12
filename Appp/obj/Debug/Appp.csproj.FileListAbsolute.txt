@@ -8,3 +8,14 @@ F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.csproj.GenerateResource.cache
 F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.csproj.CoreCompileInputs.cache
 F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.exe
 F:\EPU\.Net\Origin\Appp\Appp\obj\Debug\Appp.pdb
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\bin\Debug\Appp.exe.config
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\bin\Debug\Appp.exe
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\bin\Debug\Appp.pdb
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.csprojAssemblyReference.cache
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.Frm_SignIn.resources
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.Properties.Resources.resources
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.csproj.GenerateResource.cache
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.csproj.CoreCompileInputs.cache
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.exe
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.pdb
+F:\EPU\Cấu trúc dữ liệu và giải thuật nâng cao\Project-CTDLGT\Appp\obj\Debug\Appp.Frm_SignUp.resources
