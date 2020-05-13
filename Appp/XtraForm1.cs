@@ -3,16 +3,17 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DevExpress.XtraEditors;
 
 namespace Appp
 {
-    public partial class Frm_btn1 : Form
+    public partial class XtraForm1 : DevExpress.XtraEditors.XtraForm
     {
-        public Frm_btn1()
+        public XtraForm1()
         {
             InitializeComponent();
         }
